@@ -7,6 +7,7 @@ A webpage that informs the user on SEO, online reputation management, and social
 * HTML
 * CSS
 
+![Mockup for webpage](./assets/images/html-css-git-mock.png)
 ## Website
 https://kaylynclark.github.io/html-css-git-challenge/
 
